@@ -7,11 +7,11 @@ library(gridExtra)
 library(ggpubr)
 rm(list=ls())
 
-curry <- read_csv(file="https://raw.githubusercontent.com/jeremydumalig/DataBank/master/nba_savant201939.csv")
-top10 <- read_csv(file="https://raw.githubusercontent.com/jeremydumalig/DataBank/master/nba_savant%20(1).csv")
-pergame <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/DataBank/master/nba_2016.csv')
-totals <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/DataBank/master/nbatotals2016.csv')
-hollinger <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/DataBank/master/hollinger_raw.csv')
+curry <- read_csv(file="https://raw.githubusercontent.com/jeremydumalig/Curry2016/master/nba_savant201939.csv")
+top10 <- read_csv(file="https://raw.githubusercontent.com/jeremydumalig/Curry2016/master/nba_savant%20(1).csv")
+pergame <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/Curry2016/master/nba_2016.csv')
+totals <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/Curry2016/master/nbatotals2016.csv')
+hollinger <- read_csv(file='https://raw.githubusercontent.com/jeremydumalig/Curry2016/master/hollinger_raw.csv')
 
 #####################################################################
 
