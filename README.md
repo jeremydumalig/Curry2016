@@ -2,6 +2,10 @@
 
 *This project was completed as a part of the Applied Statistics and Probability elective at the Nueva School (2020). It also won 1st Place at the [ASA Data Visualization Poster Competition](https://magazine.amstat.org/blog/2020/08/01/2020-poster-and-project-competition/). Steph Curry's 2016 unanimous MVP season is analyzed. The full project can be found [here](https://jeremydumalig.com/stephen-curry/).*
 
+*Packages/Libraries Used : tidyverse, ggplot*
+
+<br>
+
 Curry.R
 * R script that cleans, groups, and visualizes data
 
