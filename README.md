@@ -6,7 +6,7 @@
 
 <br>
 
-Curry.R
+**Curry.R**
 * R script that cleans, groups, and visualizes data
 
 hollinger_raw.csv
