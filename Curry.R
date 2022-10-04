@@ -8,7 +8,7 @@ library(ggpubr)
 rm(list=ls())
 
 curry <- read_csv(file="nba_savant201939.csv")
-top10 <- read_csv(file="nba_savant%20(1).csv")
+top10 <- read_csv(file="nba_savant (1).csv")
 pergame <- read_csv(file='nba_2016.csv')
 totals <- read_csv(file='nbatotals2016.csv')
 hollinger <- read_csv(file='hollinger_raw.csv')
