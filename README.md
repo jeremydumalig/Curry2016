@@ -9,7 +9,7 @@
 **Curry.R**
 * R script that cleans, groups, and visualizes data
 
-StephenCurryMVP_Poster.pdf
+Poster.pdf
 * Final draft of poster
 
 hollinger_raw.csv
