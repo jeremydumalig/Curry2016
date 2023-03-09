@@ -1,6 +1,6 @@
 # Did Stephen Curry Deserve to Win Unanimous MVP in 2016?
 
-*This project was completed as a part of the Applied Statistics and Probability elective at the Nueva School (2020). It also won 1st Place at the [ASA Data Visualization Poster Competition](https://magazine.amstat.org/blog/2020/08/01/2020-poster-and-project-competition/). Steph Curry's 2016 unanimous MVP season is analyzed. The full project can be found [here](https://jeremydumalig.com/stephen-curry/).*
+*This project was completed as a part of the Applied Statistics and Probability elective at the Nueva School (2020). It also won 1st Place at the [ASA Data Visualization Poster Competition](https://magazine.amstat.org/blog/2020/08/01/2020-poster-and-project-competition/). Steph Curry's 2016 unanimous MVP season is analyzed. The full project can be found [here](https://jeremydumalig.com/stephen-curry/) and the poster can be downloaded [here](https://github.com/jeremydumalig/Curry2016/raw/master/StephenCurryMVP_Poster.pdf).*
 
 *Packages/Libraries Used : tidyverse, ggplot*
 
@@ -8,6 +8,9 @@
 
 **Curry.R**
 * R script that cleans, groups, and visualizes data
+
+StephenCurryMVP_Poster.pdf
+* Final draft of poster
 
 hollinger_raw.csv
 * Advanced statistics from the 2015-16 NBA season (e.g. Player Efficiency Rating, Usage Rate, etc)
